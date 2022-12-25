@@ -29,5 +29,5 @@ abc
 ```
 ## 6. 테스트 코드 실행 방법
 ```
-abc
+gradle test --info
 ```
